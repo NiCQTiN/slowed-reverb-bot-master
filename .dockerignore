@@ -1,0 +1,9 @@
+.git
+.github
+node_modules
+temp
+output
+*.zip
+.envrc
+flake.nix
+flake.lock
